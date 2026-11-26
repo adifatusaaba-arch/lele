@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#F0FDF4"/>
+  <circle cx="480" cy="80" r="90" fill="#DCFCE7"/>
+  <circle cx="120" cy="320" r="70" fill="#DCFCE7"/>
+  <ellipse cx="300" cy="270" rx="170" ry="25" fill="#BBF7D0"/>
+  <path d="M135 200C185 142 295 132 395 162C440 175 470 155 495 138C480 180 480 210 495 250C470 232 440 215 395 226C295 254 185 244 135 200Z" fill="#14532D"/>
+  <path d="M135 200L88 180M135 200L82 204M135 208L95 228" stroke="#14532D" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="182" cy="186" r="7" fill="#FFFFFF"/>
+  <circle cx="181" cy="186" r="3.5" fill="#1F2937"/>
+  <path d="M245 150C275 115 320 118 355 152" fill="#16A34A"/>
+  <rect x="200" y="310" width="200" height="36" rx="18" fill="#14532D"/>
+  <text x="300" y="334" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">LELE KONSUMSI SEGAR</text>
+</svg>

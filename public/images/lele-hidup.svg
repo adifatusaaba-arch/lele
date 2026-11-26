@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#EFF6FF"/>
+  <path d="M0 260C120 230 220 290 340 260C450 232 520 270 600 250V400H0V260Z" fill="#DBEAFE"/>
+  <circle cx="200" cy="120" r="10" fill="#93C5FD"/>
+  <circle cx="230" cy="90" r="6" fill="#93C5FD"/>
+  <circle cx="380" cy="110" r="12" fill="#93C5FD"/>
+  <path d="M145 195C195 140 295 130 390 160C435 174 465 152 490 135C475 178 475 208 490 248C465 230 435 212 390 222C295 250 195 240 145 195Z" fill="#16A34A"/>
+  <path d="M145 195L98 175M145 195L94 199M145 203L106 223" stroke="#14532D" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="190" cy="182" r="7" fill="#FFFFFF"/>
+  <circle cx="189" cy="182" r="3.5" fill="#1F2937"/>
+  <rect x="210" y="310" width="180" height="36" rx="18" fill="#16A34A"/>
+  <text x="300" y="334" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">LELE HIDUP LINCAH</text>
+</svg>

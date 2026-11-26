@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#FEFCE8"/>
+  <circle cx="300" cy="190" r="140" fill="#FEF08A" opacity="0.5"/>
+  <path d="M100 195C165 120 305 110 420 148C472 165 505 140 535 120C518 175 518 215 535 270C505 248 472 225 420 240C305 276 165 266 100 195Z" fill="#14532D"/>
+  <path d="M100 195L50 172M100 195L44 198M100 205L58 228" stroke="#14532D" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="155" cy="180" r="9" fill="#FFFFFF"/>
+  <circle cx="154" cy="180" r="4.5" fill="#1F2937"/>
+  <path d="M225 135C265 95 325 98 370 138" fill="#16A34A"/>
+  <rect x="190" y="310" width="220" height="36" rx="18" fill="#14532D"/>
+  <text x="300" y="334" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">LELE JUMBO / BABON</text>
+</svg>
